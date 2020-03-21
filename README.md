@@ -1,1 +1,5 @@
-# damade, it is a github repository solely for the purpose of HNGInternship.
+# ADEOYE DAMILOLA TUNDE
+# damilolaadeoye545@yahoo.com
+# Damade
+# Backend,Mobile
+# Python, Java, Kotlin
